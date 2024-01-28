@@ -13,7 +13,7 @@ I'm Ken, a Computer Science student at Nanyang Technological University (NTU) in
 - I enjoy watching documentaries and staying active.
 
 📫 **Connect with Me:**
-- Feel free to reach out via [email](gho014@e.ntu.edu.sg)!
+- Feel free to reach out via GHO014@e.ntu.edu.sg!
 
 Thanks for stopping by! 😁
 
