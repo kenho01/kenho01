@@ -3,11 +3,10 @@
 I'm Ken, a Computer Science student at Nanyang Technological University (NTU) in Singapore.
 
 🔭 **About Me:**
-- I'm passionate about exploring the data field within Computer Science.
-- I find the study of various algorithms incredibly exciting.
+- I'm passionate about exploring the data field within Computer Science, with a particular interest in data engineering, data analytics, and data science.
 
 🌱 **What I'm Up To:**
-- You'll find a variety of projects, algorithm notes, and LeetCode practices in my personal GitHub account (soon).
+- You'll find a variety of projects, algorithm notes, and LeetCode practices in my personal GitHub account.
 
 ⚡ **Fun Facts:**
 - I enjoy watching documentaries and staying active.
